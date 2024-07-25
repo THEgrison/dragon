@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
 body {
-  background: #ffffff url(https://cdn.futura-sciences.com/sources/images/danuri-photo-2.jpg);
+  background: no-repeat url(https://i.pinimg.com/originals/a2/d0/63/a2d063b80e8cb04ec5d778e36389d2b7.jpg);
   background-size: cover;
+  background-color: black;
   background-position: center;
   font-family: "Open Sans", sans-serif;
 }
