@@ -13,8 +13,10 @@ body {
 
 .texte{
   position: relative;
-  top: 500px; left: 950px;
-  color: #FF1493;
+  top: 550px; left: 2px;
+  font-family: cursive;
+  font-size: 3rem;
+  color: #fff;
 }
 
 .header {
