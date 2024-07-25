@@ -11,6 +11,12 @@ body {
   min-height: 100vh;
 }
 
+.texte{
+  position: relative;
+  top: 700px; left: 950px;
+  color: #FF1493;
+}
+
 .header {
   position: sticky;
   top: 0;
