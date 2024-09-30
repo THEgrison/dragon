@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
 
+/* https://i.pinimg.com/originals/a2/d0/63/a2d063b80e8cb04ec5d778e36389d2b7.jpg */
+
 body {
-  background: no-repeat url('https://i.pinimg.com/originals/a2/d0/63/a2d063b80e8cb04ec5d778e36389d2b7.jpg');
+  background: no-repeat url('https://as2.ftcdn.net/v2/jpg/09/84/32/71/1000_F_984327107_RUWjq6DfYy6WOe345SaAkyw3MCtnlrCe.jpg');
   background-size: cover;
   background-color: black;
   background-position: center;
